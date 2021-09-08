@@ -1,0 +1,38 @@
+@media screen and (max-width:1100px){
+	.main-container{padding:0 20px; max-width:100%;}
+}
+@media screen and (max-width:800px){
+	.hm-rit-img {width: 320px; margin-left:20px}
+}
+
+@media screen and (max-width:700px){
+	.nav-list{display:none;padding:25px;  position:absolute; top:93px; background: #000; z-index: 11;left:0; width:100%}
+	.nav-list li{margin:0 0 20px 0;}
+	.toggle{display:block; width:25px; height:25px; background:url('../images/menu.svg') no-repeat center;position: absolute; right: 20px;}
+	.toggle.active{background:url('../images/close-mobile.svg') no-repeat center;}
+	.nav-list li a.active{color:#fff}
+	.hm-aboutus .main-container{flex-wrap: wrap;}
+	.hm-rit-img{margin:25px auto 0;width: 100%;}
+	.hm-aboutus {margin: 40px 0 40px;}
+	.hm-lft-content h3,.hd strong{font-size:25px}
+	.work-row::before{display:none}
+	.work-row{flex-wrap:wrap;justify-content: center;}
+	.work-row-inner{margin-bottom:30px}
+	.work-row-inner:last-child{margin-bottom:0}
+	.s_game_list { grid-template-columns: repeat(2, 1fr);}
+	.footernav li a{margin: 0 10px;font-size: 12px;}
+	.footer-social-icon li {margin: 0 15px;	}
+	p {font-size: 13px;}
+	.c-staff-img{display:none;}
+	.contactus strong { font-size: 20px;}
+	.hd-inner h3 {font-size: 21px;}
+}
+
+@media screen and (max-width:350px){
+	.footernav li a {margin: 0 8px;font-size: 10px;}
+}
+
+
+
+
+
