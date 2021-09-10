@@ -20,6 +20,7 @@ p{line-height:23px; font-size:15px; margin:0;}
     line-height: normal;}
 .hm-aboutus{margin:40px 0 80px}
 .hm-lft-content{flex:1;max-width: 460px;}
+.hm-lft-content p + p{margin-top:15px}
 .hm-lft-content h3{font-size:30px; font-weight:500; color:#343434; line-height:normal; margin-bottom:8px;}
 .hm-lft-content  .btn-custom{text-align:left}
 .hm-aboutus .main-container{display: flex;justify-content: space-between;}
