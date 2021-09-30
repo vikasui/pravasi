@@ -118,7 +118,7 @@ section.member-row .hd{margin-bottom: 10px;}
 .facts-title{margin:20px 0 10px;font-size:20px;font-weight:500}
 .process-content p{font-size:14px}
 .process-content{margin:0 auto;max-width:276px}
-.footer-row{padding:23px 0; background:url('../images/footer-bg.jpg'); background-repeat:no-repeat; background-position:center; margin:40px 0 0}
+.footer-row{padding:23px 0; background:url('../images/footer-bg.jpg'); background-repeat:no-repeat; background-position:center; background-size: cover; margin:40px 0 0}
 .main-banner{position:relative}
 .main-banner img{width:100%; margin:0 auto;object-fit: cover;}
 .logo-row img{height:80px}
